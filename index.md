@@ -1,3 +1,8 @@
 ---
-title: Welcome to　test
+title: Welcome to test
+layout: default
 ---
+
+# ようこそ！
+
+これはテストのホームページです。
